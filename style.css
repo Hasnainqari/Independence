@@ -64,8 +64,8 @@ section h2 {
 }
 
 .name {
-    color: -webkit-linear-gradient(right,#000, #fff, #06bd03);   
     font-family: Inspiration;
+    color: #fff;
     font-size: 30px;
     text-shadow: -9px 6px 1px #2322226b;
     font-weight: 900;
